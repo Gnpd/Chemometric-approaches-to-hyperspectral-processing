@@ -1,3 +1,4 @@
+chemotools>=0.3.0
 segment_anything @ git+https://github.com/facebookresearch/segment-anything.git@dca509fe793f601edb92606367a655c15ac00fdf
 nippy @ git+https://github.com/uef-bbc/nippy
 supervision==0.25.1

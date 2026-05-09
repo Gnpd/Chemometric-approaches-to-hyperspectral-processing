@@ -1,4 +1,11 @@
 # Chemometric-approaches-to-hyperspectral-processing
+## About this fork
+
+This repository is a **personal playground** forked from [LizaGenke/Chemometric-approaches-to-hyperspectral-processing](https://github.com/LizaGenke/Chemometric-approaches-to-hyperspectral-processing) (Liza Genke). It is **under active development** and may diverge from the original as I experiment with:
+
+- Refactoring notebooks to use the [chemotools](https://github.com/paucablop/chemotools) library
+
+For the original, stable course material please visit the upstream repository.
 
 ## Opening notebooks in Google Colab
 
